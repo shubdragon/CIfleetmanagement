@@ -35,9 +35,9 @@
 */
 
 // The following values will probably need to be changed.
-$db['default']['username'] = "greenyxt_fleet_vms";
-$db['default']['password'] = "fleetvms123@A";
-$db['default']['database'] = "greenyxt_fleet_vms";
+$db['default']['username'] = "ujpwvashxm";
+$db['default']['password'] = "8miZDa$sk4YsL1JP";
+$db['default']['database'] = "greensoftsolutions-database";
 
 // The following values can probably stay the same.
 $db['default']['hostname'] = "localhost";
